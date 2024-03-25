@@ -1,0 +1,21 @@
+{
+  "name": "simplex",
+  "version": "0.0.0",
+  "description": "just run node simplex",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "ts-node"
+  },
+  "keywords": [
+    "simplex",
+    "node",
+    "typescript"
+  ],
+  "author": "Stefan Temme",
+  "license": "ISC",
+  "dependencies": {
+    "javascript-lp-solver": "^0.4.24",
+    "ts-node": "^10.9.2"
+  }
+}
